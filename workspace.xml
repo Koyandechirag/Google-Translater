@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c406324-cdb8-4e28-8fcc-8f7082e00b6b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Appointment letter _NIKHIL KOYANDE (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 1 Animated Porfolio/Chirag Koyande Resume.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 1 Animated Porfolio/Currency-Converter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 1 Animated Porfolio/calculator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 1 Animated Porfolio/flip.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 1 Animated Porfolio/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 1 Animated Porfolio/photo.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 1 Animated Porfolio/quote.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 1 Animated Porfolio/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 1 Animated Porfolio/snakeimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 1 Animated Porfolio/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 1 Animated Porfolio/tictactoe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 1 Animated Porfolio/tweet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 2 Basic Calulator/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 2 Basic Calulator/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 2 Basic Calulator/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 2 Basic Calulator/utils.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 3 Currency Converter/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 3 Currency Converter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 3 Currency Converter/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 3 Currency Converter/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 4  Tic Tac Toe/excited.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 4  Tic Tac Toe/gameover.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 4  Tic Tac Toe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 4  Tic Tac Toe/music.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 4  Tic Tac Toe/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 4  Tic Tac Toe/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 4  Tic Tac Toe/ting.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 5 SnakeGame/Resources.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 5 SnakeGame/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 5 SnakeGame/food.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 5 SnakeGame/gameover.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 5 SnakeGame/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 5 SnakeGame/move.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 5 SnakeGame/music.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 5 SnakeGame/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 5 SnakeGame/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 6 Quote Generator/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 6 Quote Generator/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 6 Quote Generator/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/Chirag-project 6 Quote Generator/tweet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/ChiragZip_project 1-AnimatedPortfolio.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/ChiragZip_project 2-calci.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/ChiragZip_project 3-CurrCon.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/ChiragZip_project 4 -TicTacToe.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/ChiragZip_project 5-SnakeBiteGame.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chirag Projects/ChiragZip_project 6-QuoteGenerator.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doc1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eclipse IDE for Java Developers - 2023-06.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphic_DCH_ROG_NVIDIA_Z_V30.0.15.1278_28163.part" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphic_ROG_Intel_B_V30.0.100.9805Sub1_24235.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IRCTC Next Generation eTicketing System.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Microsoft Edge.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nikhil nov22.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Person 1 - Chrome.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RESIGNATION LETTER.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RESIGNATION LETTERS.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RunJS.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TurboC++ for Windows 7.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visual Studio Code.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WirelessLan_ROG_MediaTek_Z_V3.00.01.1244Sub1_28758.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app updaye/Graphic_ROG_Intel_B_V30.0.100.9805Sub1_24235.part" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app updaye/PrecisionTouchPad_ROG_ASUS_B_V11.0.0.38Sub1_24237.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app updaye/iSST_ROG_Intel_B_V10.25.00.5427_28260.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chiraggt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/IMG-20221206-WA0013 diploma certificate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/IMG-20221206-WA0014 12 certificate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/IMG-20221206-WA0016 adhar card.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/IMG-20221206-WA0017 pan card.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/IMG-20221206-WA0019 bank acc no..jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/IMG-20221206-WA0024 convocation degree certificate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/IMG-20221206-WA0029 dgree certificate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/IMG-20221206-WA0030 last sem result.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documents/IMG20221211100626.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.py.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iSST_ROG_Intel_B_V10.25.00.5427_28260.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2bopHnA97ognAaGPaHFNm12huKh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c406324-cdb8-4e28-8fcc-8f7082e00b6b" name="Changes" comment="" />
+      <created>1706891201919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706891201919</updated>
+    </task>
+    <servers />
+  </component>
+</project>
